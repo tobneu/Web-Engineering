@@ -1,0 +1,20 @@
+{
+    "description": "A simple example of demo data with javascript",
+    "data": [
+        {
+            "name": "John",
+            "age": 30,
+            "courses": ["Math", "English", "Science"]
+        },
+        {
+            "name": "Jane",
+            "age": 25,
+            "courses": ["Math", "Science"]
+        },
+        {
+            "name": "Jim",
+            "age": 35,
+            "courses": ["Math"]
+        }
+    ]
+}
